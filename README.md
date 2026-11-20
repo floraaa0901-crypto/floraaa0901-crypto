@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm floraaa0901-crypto
+## 📊 Data Analyst | Supply Chain | E-Commerce & LLM / AI Agent Enthusiast
+- 🔧 Tech Stack: SQL, Python, PowerBI, Snowflake, Tableau, Langchain
+- 📦 Domain: Retail Supply Chain, E-commerce, Data Visualization
+- 📜 Certifications: Alibaba ACP Large Model Engineer
+- 🎯 Currently learning: AI Agent, RAG, Data Engineering
 
-<!--
-**floraaa0901-crypto/floraaa0901-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📂 My Projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- Email: floraaa0901@gmail.com
+
